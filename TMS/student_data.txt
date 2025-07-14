@@ -1,0 +1,42 @@
+10
+
+Id: 23K0790
+Name: AHMED AMIR
+Route: 10
+
+Id: 23K0501
+Name: RAMEEN ZEHRA
+Route: 3
+
+Id: 23K0737
+Name: HANZALA JAMIML
+Route: 14
+
+Id: 23K0055
+Name: AISHA ASIF ISMAIL
+Route: 10
+
+Id: 23K1234
+Name: ASHHAD KHAN
+Route: 3
+
+Id: 23K5467
+Name: MARIAM KHAN
+Route: 16
+
+Id: 22K0447
+Name: ALI KHAN
+Route: 3
+
+Id: 19K1777
+Name: ASMA RIZVI
+Route: 1
+
+Id: 20K1237
+Name: ZAID REHAN
+Route: 14
+
+Id: 22K5555
+Name: M. JAVED
+Route: 14
+
